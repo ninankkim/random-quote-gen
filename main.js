@@ -28,3 +28,5 @@ btn.addEventListener('click', function() {
 // and when you add a math.random it will shuffle through and return those in random order
 // and the length property returns an integer value that represents the number of characters in the string
 // if the string is an empty string, the length property will return to 0
+
+// the .innerHTML property sets the HTML contents of an element on a web page
