@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(144, 203, 223);
+}
+
+#container {
+    background-color: pink;
+    border: 5px solid beige;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center; 
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: #FFFFFF;
+}
