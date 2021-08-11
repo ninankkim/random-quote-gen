@@ -18,3 +18,9 @@ body {
     font-size: 22px;
     background-color: #FFFFFF;
 }
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: black;
+}
